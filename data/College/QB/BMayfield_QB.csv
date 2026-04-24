@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,defensive_PD,defensive_QB_HUR,defensive_SACKS,defensive_SOLO,defensive_TD,defensive_TFL,defensive_TOT,fumbles_FUM,fumbles_LOST,fumbles_REC,passing_ATT,passing_COMPLETIONS,passing_INT,passing_PCT,passing_TD,passing_YDS,passing_YPA,receiving_LONG,receiving_REC,receiving_TD,receiving_YDS,receiving_YPR,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2017,550373,Baker Mayfield,QB,Oklahoma,Big 12,0,0,0,1,0,0,1,1,0,0,404,285,6,0.705,43,4627,11.5,2,1,1,2,2.0,97,54,5,311,3.2

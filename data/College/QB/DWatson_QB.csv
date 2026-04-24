@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,fumbles_FUM,fumbles_LOST,fumbles_REC,passing_ATT,passing_COMPLETIONS,passing_INT,passing_PCT,passing_TD,passing_YDS,passing_YPA,punting_In_20,punting_LONG,punting_NO,punting_TB,punting_YDS,punting_YPP,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2016,3122840,Deshaun Watson,QB,Clemson,ACC,3,2,0,578,387,17,0.670,41,4593,7.9,0,38,1,0,38,38.0,165,33,9,629,3.8

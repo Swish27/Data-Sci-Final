@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,defensive_PD,defensive_QB_HUR,defensive_SACKS,defensive_SOLO,defensive_TD,defensive_TFL,defensive_TOT,fumbles_FUM,fumbles_LOST,fumbles_REC,passing_ATT,passing_COMPLETIONS,passing_INT,passing_PCT,passing_TD,passing_YDS,passing_YPA,receiving_LONG,receiving_REC,receiving_TD,receiving_YDS,receiving_YPR,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2017,3918298,Josh Allen,QB,Wyoming,Mountain West,0,0,0,0,0,0,1,5,2,0,270,152,6,0.563,16,1812,6.7,2,1,0,2,2.0,92,22,5,204,2.2

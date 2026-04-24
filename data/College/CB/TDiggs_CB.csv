@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,defensive_PD,defensive_QB_HUR,defensive_SACKS,defensive_SOLO,defensive_TD,defensive_TFL,defensive_TOT,fumbles_FUM,fumbles_LOST,fumbles_REC,interceptions_AVG,interceptions_INT,interceptions_TD,interceptions_YDS,kickReturns_AVG,kickReturns_LONG,kickReturns_NO,kickReturns_TD,kickReturns_YDS
+2019,4040966,Trevon Diggs,DB,Alabama,SEC,8,0,0,20,2,0.5,37,0,0,2,26.3,3,1,79,19.5,36,6,0,117

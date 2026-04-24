@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,defensive_PD,defensive_QB_HUR,defensive_SACKS,defensive_SOLO,defensive_TD,defensive_TFL,defensive_TOT,fumbles_FUM,fumbles_LOST,fumbles_REC,passing_ATT,passing_COMPLETIONS,passing_INT,passing_PCT,passing_TD,passing_YDS,passing_YPA,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2017,3916387,Lamar Jackson,QB,Louisville,ACC,0,0,0,2,0,0,2,9,3,0,430,254,10,0.591,27,3660,8.5,232,75,18,1601,6.9

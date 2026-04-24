@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,fumbles_FUM,fumbles_LOST,fumbles_REC,kickReturns_AVG,kickReturns_LONG,kickReturns_NO,kickReturns_TD,kickReturns_YDS,puntReturns_AVG,puntReturns_LONG,puntReturns_NO,puntReturns_TD,puntReturns_YDS,receiving_LONG,receiving_REC,receiving_TD,receiving_YDS,receiving_YPR,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2016,551298,Alvin Kamara,RB,Tennessee,SEC,5,2,0,16.0,16,1,0,16,9.7,32,19,0,184,53,40,4,392,9.8,103,39,9,596,5.8

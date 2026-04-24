@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,defensive_PD,defensive_QB_HUR,defensive_SACKS,defensive_SOLO,defensive_TD,defensive_TFL,defensive_TOT,kickReturns_AVG,kickReturns_LONG,kickReturns_NO,kickReturns_TD,kickReturns_YDS,puntReturns_AVG,puntReturns_LONG,puntReturns_NO,puntReturns_TD,puntReturns_YDS,receiving_LONG,receiving_REC,receiving_TD,receiving_YDS,receiving_YPR,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2020,4372016,Jaylen Waddle,WR,Alabama,SEC,0,0,0,1,0,0,1,9.8,22,4,0,39,6.5,11,2,0,13,90,28,4,591,21.1,3,11,0,12,4.0

@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,fumbles_FUM,fumbles_LOST,fumbles_REC,passing_ATT,passing_COMPLETIONS,passing_INT,passing_PCT,passing_TD,passing_YDS,passing_YPA,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2016,3139477,Patrick Mahomes,QB,Texas Tech,Big 12,6,1,0,591,388,10,0.657,41,5052,8.5,131,32,12,285,2.2

@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,passing_ATT,passing_COMPLETIONS,passing_INT,passing_PCT,passing_TD,passing_YDS,passing_YPA,punting_In_20,punting_LONG,punting_NO,punting_TB,punting_YDS,punting_YPP,receiving_LONG,receiving_REC,receiving_TD,receiving_YDS,receiving_YPR,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2015,547401,Jared Goff,QB,California,Pac-12,529,341,13,0.645,43,4719,8.9,0,45,6,0,209,34.8,11,1,0,11,11.0,56,20,0,-8,-0.1

@@ -1,0 +1,2 @@
+season,player_id,player,position,team,conference,passing_ATT,passing_COMPLETIONS,passing_INT,passing_PCT,passing_TD,passing_YDS,passing_YPA,receiving_LONG,receiving_REC,receiving_TD,receiving_YDS,receiving_YPR,rushing_CAR,rushing_LONG,rushing_TD,rushing_YDS,rushing_YPC
+2016,534695,Cooper Kupp,WR,Eastern Washington,Big Sky,1,1,0,1.000,0,22,22.0,75,12,3,206,17.2,2,15,0,29,14.5
